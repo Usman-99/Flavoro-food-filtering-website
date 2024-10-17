@@ -14,7 +14,7 @@ const FoodData = [
     name: "Margherita Pizza",
     price: 130,
     desc: "A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. Simple yet bursting with flavors, this Margherita Pizza is a timeless favorite that captures the essence of Italian cuisine.",
-    category: "Lunch",
+    category: "Breakfast",
     rating: 4.2,
   },
   {
@@ -23,7 +23,7 @@ const FoodData = [
     name: "Pepperoni Pizza",
     price: 160,
     desc: "Indulge in the savory delight of this Pepperoni Pizza, loaded with slices of spicy pepperoni, melted cheese, and a tangy tomato sauce. A popular choice that's perfect for satisfying your pizza cravings.",
-    category: "Lunch",
+    category: "Dinner",
     rating: 4.6,
   },
   {
@@ -32,7 +32,7 @@ const FoodData = [
     name: "Mushroom and Spinach Pizza",
     price: 140,
     desc: "Experience the earthy flavors of mushrooms combined with the freshness of spinach on this delightful pizza. Topped with a blend of cheeses, this Mushroom and Spinach Pizza offers a balanced and satisfying taste.",
-    category: "Lunch",
+    category: "Snacks",
     rating: 4.2,
   },
   {
@@ -77,7 +77,7 @@ const FoodData = [
     name: "Avocado Toast",
     price: 120,
     desc: "Savor the creaminess of mashed avocado on toasted whole grain bread, topped with a sprinkle of sea salt and red pepper flakes. A trendy and nutritious breakfast choice.",
-    category: "Breakfast",
+    category: "Lunch",
     rating: 4.6,
   },
   {
@@ -122,7 +122,7 @@ const FoodData = [
     name: "Grilled Chicken Burrito Bowl",
     price: 160,
     desc: "Savor the flavors of a delicious burrito bowl with tender grilled chicken, black beans, rice, sautéed peppers and onions, shredded cheese, and a drizzle of zesty cilantro-lime dressing. A hearty and satisfying chicken dinner option.",
-    category: "Dinner",
+    category: "Lunch",
     rating: 4.6,
   },
   {
@@ -176,7 +176,7 @@ const FoodData = [
     name: "Fruit Skewers",
     price: 70,
     desc: "Indulge in a colorful assortment of fruit skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",
-    category: "Snacks",
+    category: "Lunch",
     rating: 4.8,
   },
 ];
